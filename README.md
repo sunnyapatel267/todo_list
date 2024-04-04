@@ -1,2 +1,2 @@
 # todo-list fullstack
-## techstack: react, node.js, express, mysql
+## techstack: react, node.js, mysql
